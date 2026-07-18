@@ -7,7 +7,7 @@ cask "kuroko" do
   desc "Menu bar app that automatically converts WebP/AVIF/HEIC images to JPEG, PNG or GIF"
   homepage "https://kuroko.holo.red/"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "kuroko.app"
 
