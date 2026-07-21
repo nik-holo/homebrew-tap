@@ -1,6 +1,6 @@
 cask "kuroko" do
-  version "0.3.0"
-  sha256 "7936aaa3f0b9cbe24c85e91700cf9caa004699b61b54a4a6405183eb89dee4e0"
+  version "0.4.0"
+  sha256 "1293979feeb899f918d874e4d11a3ba59e8e997fe30c16fcbb4ba4d5427afde7"
 
   url "https://github.com/nik-holo/kuroko/releases/download/v#{version}/kuroko-#{version}.dmg"
   name "kuroko"
